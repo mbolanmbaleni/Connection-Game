@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 352d036ef06c7b845ad3e664be09f004, type: 3}
+  m_Name: skyscraperA
+  m_EditorClassIdentifier: 
+  nameString: 
+  prefab: {fileID: 2054251259643828785, guid: 3a6e6759fdcc85d409c52a649a3d5f11, type: 3}
+  isGeneratedResource: 0
+  sprite: {fileID: 0}
+  minConstructionRadius: 0
